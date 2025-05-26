@@ -13,7 +13,7 @@
     "stdin",
     "task-manager"
   ],
-  "author": "",
+  "author": "github.com/KDragonic",
   "license": "ISC",
   "description": "MCP сервер для управления задачами через STDIO",
   "dependencies": {
